@@ -18,23 +18,3 @@
   <img align="center" src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
   <img align="center" src="https://skillicons.dev/icons?i=vite&theme=dark" />
 </p>
-
-<br/>
-
-<!-- 贪吃蛇 - 图片由 actions/Generate Snake 定时生成 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
-</picture>
-
-<p align="center">
-  <img align="center" height="180" width="45%" src="https://github-readme-stats.vercel.app/api?username=CrisRion&show_icons=true&theme=transparent"/>
-  <!-- 连续贡献数据记录 -->
-  <img  align="center" height="200" width="45%" src="https://streak-stats.demolab.com?user=CrisRion&theme=highcontrast&border_radius=5&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img align="center"  width="45%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisRion&theme=transparent"/>
-  <img align="center"  width="45%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisRion&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-</p>
