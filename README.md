@@ -29,7 +29,7 @@
 </picture>
 
 <p align="center">
-  <img align="center" height="180" width="45%" src="https://github-readme-stats.vercel.app/api?username=apries406&show_icons=true&theme=highcontrast"/>
+  <img align="center" height="180" width="45%" src="https://github-readme-stats.vercel.app/api?username=CrisRion&show_icons=true&theme=transparent"/>
   <!-- 连续贡献数据记录 -->
   <img  align="center" height="200" width="45%" src="https://streak-stats.demolab.com?user=CrisRion&theme=highcontrast&border_radius=5&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 </p>
