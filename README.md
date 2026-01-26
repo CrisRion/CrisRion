@@ -25,6 +25,6 @@
 ![snake](https://raw.githubusercontent.com/CrisRion/CrisRion/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img height="170" width="49%" src="https://github-readme-stats.vercel.app/api?username=CrisRion&show_icons=true&theme=highcontrast" />
-  <img height="170" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisRion&layout=compact&theme=highcontrast" />
+  <img height="170" width="49%" src="https://github-readme-stats.vercel.app/api?username=CrisRion&show_icons=true&theme=transparent" />
+  <img height="170" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisRion&layout=compact&theme=transparent" />
 </p>
